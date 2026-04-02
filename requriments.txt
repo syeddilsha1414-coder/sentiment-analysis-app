@@ -1,3 +1,6 @@
-Flask
+flask
 textblob
 gunicorn
+pandas
+seaborn
+matplotlib
